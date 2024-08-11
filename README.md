@@ -50,7 +50,7 @@ The notebook visualizes the accuracy and loss for both the quantum and classical
 
 ## License
 
-This project is licensed under the MIT License - see the  file for details.
+This project is licensed under the MIT License  - see the  file for details.
 
 ---
 
