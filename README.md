@@ -47,15 +47,10 @@ The processed quantum images are then fed into a classical neural network model 
 
 The notebook visualizes the accuracy and loss for both the quantum and classical models over multiple epochs. The comparison helps in understanding the potential benefits of incorporating quantum preprocessing into classical models.
 
-## Running the Notebook
-
-1. Clone the repository.
-2. Install the necessary packages.
-3. Run the `qcnn_project.ipynb` notebook.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the  file for details.
 
 ---
 
