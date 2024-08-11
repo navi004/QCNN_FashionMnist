@@ -8,8 +8,7 @@ This repository contains a project that implements a Quantum Convolutional Neura
 
 ## Project Structure
 
-- **`qcnn_project.ipynb`**: The main Jupyter notebook containing the implementation.
-- **`/content/drive/MyDrive/Colab Notebooks/QML Project/`**: Directory for saving preprocessed quantum images.
+- **`Dataset`** : Fashion Mnist
 - **`README.md`**: Project documentation (this file).
 
 ## Requirements
